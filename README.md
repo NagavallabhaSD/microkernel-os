@@ -5,6 +5,9 @@ It demonstrates core OS concepts such as **paging, interrupts, IPC, and kernel s
 
 ---
 
+## Visualization on a Web page
+- https://microkernel-visualiser.vercel.app/
+
 ## 🔧 Architecture Overview
 
 - **CPU Mode:** x86 Protected Mode (32-bit)
